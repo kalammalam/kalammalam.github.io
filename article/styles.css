@@ -1,7 +1,7 @@
 @media (min-width: 1000px){
 body {background-color:#ffffff; margin:3% 23% 1.5% 23%;}
-h1 {font-weight: bold; font-size:20px; font-family:robot; margin:0px 0px 30px 0px; color:#aa0000;}
-h2 {font-size:18px; font-family:crimst; margin:0px 0px 15px 0px;}
+h1 {font-size:22px; font-family:crimst; margin:0px 0px 30px 0px; color:#aa0000;}
+h2 {font-size:19px; font-family:crimst; margin:0px 0px 15px 0px;}
 img {margin:13px 0px;}
 table {margin:20px 0px;}
 figure {text-align:center;}
@@ -27,9 +27,8 @@ a:hover {color:#666666; background-color: transparent; text-decoration: none;}
 
 @media (max-width: 1000px){
 body {background-color:#ffffff; margin:3% 4% 3% 4%;}
-
-h1 {font-size:24px; font-family:robot; margin:30px 0px 40px 0px; color:#aa0000;}
-h2 {font-size:18px; font-family:crimst; margin:0px 0px 15px 0px;}
+h1 {font-size:22px; font-family:crimst; margin:30px 0px 40px 0px; color:#aa0000;}
+h2 {font-size:19px; font-family:crimst; margin:0px 0px 15px 0px;}
 img {margin:13px 0px;}
 table {margin:20px 0px;}
 figure {text-align:center;}

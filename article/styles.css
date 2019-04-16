@@ -27,7 +27,7 @@ a:hover {color:#666666; background-color: transparent; text-decoration: none;}
 
 @media (max-width: 1000px){
 body {background-color:#ffffff; margin:3% 4% 3% 4%;}
-h1 {font-weight:bold; font-size:22px; font-family:abrilf; margin:0px 0px 0px 0px; color:#aa0000;}
+h1 {font-weight:normal; font-size:22px; font-family:abrilf; margin:0px 0px 0px 0px; color:#aa0000;}
 h2 {font-size:19px; font-family:crimst; margin:0px 0px 0px 0px;}
 img {margin:13px 0px;}
 table {margin:20px 0px;}

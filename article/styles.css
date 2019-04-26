@@ -1,5 +1,5 @@
 @media (min-width: 1000px){
-body {background-color:#ffffff; margin:3vw 25vw 1.5vw 25vw;}
+body {background-color:#ffffff; margin:3vw 30vw 1.5vw 30vw;}
 h1 {font-weight:normal; font-size:25px; font-family:abrilf; margin:0px 0px 0px 0px; color:#aa0000;}
 h2 {font-size:19px; font-family:crimst; margin:0px 0px 0px 0px;}
 img {margin:13px 0px 13px 0px;}
@@ -11,7 +11,7 @@ figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 .date {font-weight:bold; font-size:12px; font-family:robot; color:#808080; padding:0px 0px 0px 0px; margin:15px 0px 40px 0px;}
 .content {font-size:19px; font-family:crimst; color:#000000; margin:0px 0px 0px 0px;}
 .note {font-size:17px; font-family:crimst; color:#666666; margin:0px 0px 0px 20px; padding:0px 0px 0px 10px; border-left:2px solid #666666}
-.quote {font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; background-color:#f2f2f2; border:1px solid #000000}
+.quote {background-color:#f2f2f2; font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; margin:13px 0px 13px 0px; border:1px solid #000000}
 .hr {font-size:1px; color:#000000; line-height:1px; background-color:grey;}
 .footer {font-size:15px; font-family:crimst; color:#000000; padding:0px 0px 0px 0px; margin:50px 0px 5px 0px;}
 
@@ -39,7 +39,7 @@ figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 .date {font-weight:bold; font-size:12px; font-family:robot; color:#808080; padding:0px 0px 0px 0px; margin:30px 0px 70px 0px;}
 .content {font-size:19px; font-family:crimst; color:#000000; padding:0px 0px 0px 0px;}
 .note {font-size:17px; font-family:crimst; color:#666666; margin:0px 0px 0px 20px; padding:0px 0px 0px 30px; border-left:3px solid #666666}
-.quote {font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; background-color:#f2f2f2; border:1px solid #000000}
+.quote {background-color:#f2f2f2; font-size:13px; font-family:incons; color:#000000; padding:12px 12px; margin:13px 0px 13px 0px; border:1px solid #000000}
 .hr {font-size:1px; color:#000000; line-height:1px; background-color:grey;}
 .footer {font-size:12px; font-family:crimst; color:#666666; padding:0px 0px 0px 0px; margin:50px 0px 5px 0px;}
 

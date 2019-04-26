@@ -2,7 +2,6 @@
 body {background-color:#ffffff; margin:3vw 30vw 1.5vw 30vw;}
 h1 {font-weight:normal; font-size:25px; font-family:abrilf; margin:0px 0px 0px 0px; color:#aa0000;}
 h2 {font-size:19px; font-family:crimst; margin:0px 0px 0px 0px;}
-img {margin:1em 0em 1em 0em;}
 table {margin:20px 0px;}
 figure {text-align:center;}
 figcaption {text-align:center; font-size:13px; font-family:ptsans;}
@@ -12,7 +11,7 @@ figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 .content {font-size:19px; font-family:crimst; color:#000000; margin:0px 0px 0px 0px;}
 .note {font-size:17px; font-family:crimst; color:#666666; margin:0px 0px 0px 20px; padding:0px 0px 0px 10px; border-left:2px solid #666666}
 .quote {background-color:#f2f2f2; font-size:15.5px; font-family:incons; color:#000000; padding:12px 12px; margin:1em 0em 1em 0em; border:1px solid #000000}
-.hr {font-size:1px; color:#000000; line-height:1px; background-color:grey;}
+.hr {background-color:grey; font-size:1px; color:#000000; line-height:1px; margin:1em 0em 1em 0em;}
 .footer {font-size:15px; font-family:crimst; color:#000000; padding:0px 0px 0px 0px; margin:50px 0px 5px 0px;}
 
 a.black {text-decoration:none; color:#000000;}
@@ -30,7 +29,6 @@ a:hover {color:#666666; background-color: transparent; text-decoration: none;}
 body {background-color:#ffffff; margin:7vw 5vw 3vw 5vw;}
 h1 {font-weight:normal; font-size:25px; font-family:abrilf; margin:0px 0px 0px 0px; color:#aa0000;}
 h2 {font-size:19px; font-family:crimst; margin:0px 0px 0px 0px;}
-img {margin:1em 0em 1em 0em;}
 table {margin:20px 0px;}
 figure {text-align:center;}
 figcaption {text-align:center; font-size:13px; font-family:ptsans;}
@@ -40,7 +38,7 @@ figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 .content {font-size:19px; font-family:crimst; color:#000000; padding:0px 0px 0px 0px;}
 .note {font-size:17px; font-family:crimst; color:#666666; margin:0px 0px 0px 20px; padding:0px 0px 0px 30px; border-left:3px solid #666666}
 .quote {background-color:#f2f2f2; font-size:13px; font-family:incons; color:#000000; padding:12px 12px; margin:1em 0em 1em 0em; border:1px solid #000000}
-.hr {font-size:1px; color:#000000; line-height:1px; background-color:grey;}
+.hr {font-size:1px; color:#000000; line-height:1px; background-color:grey; margin:1em 0em 1em 0em;}
 .footer {font-size:12px; font-family:crimst; color:#666666; padding:0px 0px 0px 0px; margin:50px 0px 5px 0px;}
 
 a.black {text-decoration:none; color:#000000;}

@@ -1,17 +1,19 @@
 @media (min-width: 1000px){
 body {background-color:#ffffff; margin:3vw 30vw 1.5vw 30vw;}
-h1 {font-weight:normal; font-size:25px; font-family:abrilf; margin:0px 0px 0px 0px; color:#aa0000;}
-h2 {font-size:19px; font-family:crimst; margin:0px 0px 0px 0px;}
+h1 {font-weight:normal; font-size:25px; font-family:abrilf; color:#aa0000;}
+h2 {font-size:19px; font-family:robot;}
+img {margin:0.5vw 0vw 0.5vw 0vw;}
 table {margin:20px 0px;}
 figure {text-align:center;}
 figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 
-.header {font-weight:bold; font-size:12px; font-family:robot; color:#000000; padding:0px 0px 4px 0px; margin:0px 0px 70px 0px; border-bottom:1px solid #cccccc;}
-.content {font-size:19px; font-family:crimst; color:#000000; margin:0px 0px 0px 0px;}
-.note {font-size:17px; font-family:crimst; color:#666666; margin:0px 0px 0px 20px; padding:0px 0px 0px 10px; border-left:2px solid #666666}
-.quote {background-color:#f2f2f2; font-size:15.5px; font-family:incons; color:#000000; padding:0px 12px 0px 12px; margin:1em 0em 1em 0em; border:1px solid #000000}
-.hr {font-size:1px; color:#000000; line-height:1px; background-color:grey; margin:1em 0em 1em 0em;}
-.footer {font-size:15px; font-family:crimst; color:#000000; padding:0px 0px 0px 0px; margin:50px 0px 5px 0px;}
+.header {font-size:12px; font-family:robot; color:#000000; padding:0vw 0vw 1vw 0vw; margin:0vw 0vw 4vw 0vw; border-bottom:1px solid #cccccc;}
+.date {font-weight:bold; font-size:12px; font-family:robot; color:#808080; margin:1.3vw 0vw 2.7vw 0vw;}
+.content {font-size:19px; font-family:crimst; color:#000000; margin:0vw 0vw 0vw 0vw;}
+.note {font-size:17px; font-family:crimst; color:#666666; padding:0vw 0vw 0vw 1vw; margin:0vw 0vw 1.5vw 2vw; border-left:2px solid #666666}
+.quote {background-color:#f2f2f2; font-size:15.5px; font-family:incons; color:#000000; padding:0vw 1vw 0vw 1vw; border:1px solid #000000}
+.hr {background-color:grey; font-size:1px; color:#000000; line-height:1px;}
+.footer {font-size:15px; font-family:crimst; color:#000000; margin:4vw 0vw 1vw 0vw;}
 
 a.black {text-decoration:none; color:#000000;}
 a.red {text-decoration:none; color:#aa0000;}
@@ -26,18 +28,20 @@ a:hover {color:#666666; background-color: transparent; text-decoration: none;}
 
 @media (max-width: 1000px){
 body {background-color:#ffffff; margin:7vw 5vw 3vw 5vw;}
-h1 {font-weight:normal; font-size:25px; font-family:abrilf; margin:0px 0px 0px 0px; color:#aa0000;}
+h1 {font-weight:normal; font-size:25px; font-family:abrilf; color:#aa0000;}
 h2 {font-size:19px; font-family:crimst; margin:0px 0px 0px 0px;}
+img {margin:4vw 0vw 4vw 0vw;}
 table {margin:20px 0px;}
 figure {text-align:center;}
 figcaption {text-align:center; font-size:13px; font-family:ptsans;}
 
-.header {font-size:9px; font-family:abrilf; color:#000000; padding:0px 0px 4px 0px; margin:0px 0px 70px 0px; border-bottom:1px solid #cccccc;}
-.content {font-size:19px; font-family:crimst; color:#000000; padding:0px 0px 0px 0px;}
-.note {font-size:17px; font-family:crimst; color:#666666; margin:0px 0px 0px 20px; padding:0px 0px 0px 30px; border-left:3px solid #666666}
-.quote {background-color:#f2f2f2; font-size:13px; font-family:incons; color:#000000; padding:0px 12px 0px 12px; margin:1em 0em 1em 0em; border:1px solid #000000}
-.hr {font-size:1px; color:#000000; line-height:1px; background-color:grey; margin:1em 0em 1em 0em;}
-.footer {font-size:12px; font-family:crimst; color:#666666; padding:0px 0px 0px 0px; margin:50px 0px 5px 0px;}
+.header {font-size:9px; font-family:robot; color:#000000; padding:0vw 0vw 2vw 0vw; margin:0vw 0vw 12vw 0vw; border-bottom:1px solid #cccccc;}
+.date {font-weight:bold; font-size:12px; font-family:robot; color:#808080; margin:3.4vw 0vw 10vw 0vw;}
+.content {font-size:19px; font-family:crimst; color:#000000; padding:0vw 0vw 0vw 0vw;}
+.note {font-size:17px; font-family:crimst; color:#666666; padding:0vw 0vw 0vw 3vw; margin:0vw 0vw 1.5vw 4vw; border-left:3px solid #666666}
+.quote {background-color:#f2f2f2; font-size:13px; font-family:incons; color:#000000; padding:0vw 4vw 0vw 4vw; border:1px solid #000000}
+.hr {font-size:1px; color:#000000; line-height:1px; background-color:grey;}
+.footer {font-size:12px; font-family:crimst; color:#666666; margin:10vw 0vw 3vw 0vw;}
 
 a.black {text-decoration:none; color:#000000;}
 a.red {text-decoration:none; color:#aa0000;}

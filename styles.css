@@ -1,5 +1,5 @@
 @media (min-width: 1000px){
-body {background-color:#ffffff; margin:3vw 17vw 1.5vw 17vw;}
+body {background-color:#ffffff; margin:3vw 15vw 1.5vw 15vw;}
 h1 {font-size:17px; font-family:abrilf; font-weight:normal; margin:0px; color:#ffffff;}
 
 .header {margin:0px 0px 0px 0px; padding:0px 0px 13px 0px; margin:0px 0px 25px 0px; border-bottom:1px solid #cccccc;}
@@ -8,7 +8,7 @@ h1 {font-size:17px; font-family:abrilf; font-weight:normal; margin:0px; color:#f
 .content {font-size:20px; font-family:crimst;}
 .others {font-size:17px; font-family:crimst; padding:0px 0px 0px 0px; margin:55px 0px 0px 0px; border-top:1px solid #cccccc; border-bottom:1px solid #cccccc;}
 .notice {font-size:17px; font-family:crimst; color:white; background:black; padding:15px; margin:10px 0px 0px 20px; border:1px solid #000000;}
-.footer {font-size:15px; font-family:crimst; color:#666666; margin:50px 0px 0px 0px;}
+.footer {font-size:15px; font-family:crimst; color:#666666; margin:4vw 0vw 1vw 0vw;}
 
 a.black {text-decoration:none; color:#000000}
 a.red {text-decoration:none; color:#aa0000;}
@@ -31,7 +31,7 @@ h1 {font-size:17px; font-family:abrilf; font-weight:normal; margin:0px; color:#f
 .content {font-size:20px; font-family:crimst;}
 .others {font-size:17px; font-family:crimst; padding:0px 0px 0px 0px; margin:55px 0px 0px 0px; border-top:1px solid #cccccc; border-bottom:1px solid #cccccc;}
 .notice {font-size:17px; font-family:crimst; color:white; background:black; padding:15px; margin:10px 0px 0px 20px; border:1px solid #000000;}
-.footer {font-size:15px; font-family:crimst; color:#666666; padding:8px 0px 0px 0px; margin:50px 0px 0px 0px;}
+.footer {font-size:15px; font-family:crimst; color:#666666; padding:8px 0px 0px 0px; margin:10vw 0vw 3vw 0vw;}
 
 a.black {text-decoration:none; color:#000000}
 a.red {text-decoration:none; color:#aa0000;}
